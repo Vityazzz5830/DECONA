@@ -1,0 +1,551 @@
+@media screen and (max-width: 1596px) and (min-width: 1200px){
+
+/*------------------ШАПКА--------------------*/
+
+header {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.header_content_leftpart > a:nth-child(1) > img:nth-child(1) {
+  max-width: 300px;
+}
+
+.header_content_rightpart_navmenu {
+  column-gap: 30px;
+}
+
+.header_content_rightpart {
+  column-gap: 30px;
+}
+
+
+
+/*------------------ПЕРВЫЙ ЭКРАН ГЛАВНАЯ--------------------*/
+
+.firstsec_mainpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+
+
+/*------------------КАТАЛОГ ГЛАВНАЯ--------------------*/
+
+.catalogsec_mainpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.catalogsec_mainpage_content_main_leftpart > img:nth-child(1) {
+  width: 64vw;
+  height: 100%;
+  object-fit: cover;
+}
+
+.catalogsec_mainpage_content_main_rightpart h3 {
+  font-size: 2rem;
+  line-height: 31px;
+}
+
+.catalogsec_mainpage_content_main_leftpart {
+  height: 100%;
+}
+
+.catalogsec_mainpage_content_main_rightpart p {
+  margin-top: 30px;
+}
+
+
+.catalogsec_mainpage_content_tabmenu_sliderone {
+  width: calc(100vw - 40px);
+}
+
+
+
+/*------------------КАБИНЕТ ФУРНИТУРА ГЛАВНАЯ--------------------*/
+
+.cabinetfurnituresec_mainpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/*------------------КАБИНЕТ ФУРНИТУРА ГЛАВНАЯ--------------------*/
+
+.bigheadersec_mainpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.bigheadersec_mainpage {
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.bigheadersec_mainpage {
+  font-size: 3rem;
+}
+
+
+/*------------------Designers ГЛАВНАЯ--------------------*/
+
+.designerssec_mainpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/*------------------Developers ГЛАВНАЯ--------------------*/
+
+.developerssec_mainpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/*------------------БЛОГ ГЛАВНАЯ--------------------*/
+
+.blogsec_mainpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#content-1_blogsec_mainpage {
+  width: calc(100vw - 40px);
+}
+
+#content-2_blogsec_mainpage {
+  width: calc(100vw - 40px);
+}
+
+#content-3_blogsec_mainpage {
+  width: calc(100vw - 40px);
+}
+
+#content-4_blogsec_mainpage {
+  width: calc(100vw - 40px);
+}
+
+#content-5_blogsec_mainpage {
+  width: calc(100vw - 40px);
+}
+
+.blogsec_mainpage_slider_item {
+  max-width: 23vw;
+}
+
+.blogsec_mainpage_slider_item img {
+  max-width: unset;
+  max-width: 23.4vw;
+  width: 100%;
+}
+
+/*------------------БЛОГ ГЛАВНАЯ--------------------*/
+
+.aboutussec_mainpage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.aboutussec_mainpage_content_main_rightpart p {
+  font-size: 1rem;
+}
+
+.aboutussec_mainpage_content_main_leftpart > img:nth-child(1) {
+  width: 64vw;
+  height: 100%;
+  object-fit: cover;
+}
+
+.aboutussec_mainpage_list_item_rightpart h3 {
+  font-size: 1.75rem;
+}
+
+
+/*------------------ПОДВАЛ ГЛАВНАЯ--------------------*/
+
+.footer_content{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.footer_content_title{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*---------!!!---------DEVELOPERS_PAGE----------!!!----------*/
+
+
+
+.firstsec_developerspage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.developerssec_developerspage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.developerssec_developerspage_content_item:nth-child(2) > div:nth-child(1) > h3:nth-child(1) > br:nth-child(1) {
+  white-space: nowrap;
+  display: none;
+}
+
+.developerssec_developerspage_content_item_rightpart img {
+  height: 556px;
+}
+
+.developerssec_developerspage_content_item {
+  grid-template-columns: 1.5fr 2.037fr;
+}
+
+.developerssec_developerspage_content_item_leftpart_header {
+  margin-top: 40px;
+}
+
+
+.productssec_developerspage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.productssec_developerspage_content_list_item {
+  max-width: 30vw;
+}
+
+.productssec_developerspage_content_list_item > img:nth-child(1) {
+  width: 100%;
+}
+
+.ourrealizedprojectssec_developerspage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.ourrealizedprojectssec_developerspage_content_leftpart h3 {
+  font-size: 2.5rem;
+}
+
+.ourrealizedprojectssec_developerspage_content {
+  column-gap: 30px;
+}
+
+
+.highqualitymaterialssec_developerspage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.highqualitymaterialssec_developerspage_content_main_rightpart h3 {
+  font-size: 2.25rem;
+}
+
+.highqualitymaterialssec_developerspage_content_main_rightpart_container_down > p:nth-child(1) {
+  margin-top: 20px;
+}
+
+.cardssec_developerspage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+.logosec_developerspage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+
+/*------------------СТРАНИЦА О НАС--------------------*/
+
+.firstsec_aboutuspage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.furnitureproductionsec_content_leftpart {
+  max-width: 32vw;
+}
+
+.furnitureproductionsec_content_rightpart {
+  max-width: 30vw;
+}
+
+.furnitureproductionsec {
+  width: calc(100vw - 40px);
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+.teamsec_content_leftpart {
+  max-width: 32vw;
+}
+
+.teamsec_content_rightpart {
+  max-width: 30vw;
+}
+
+.teamsec {
+  width: calc(100vw - 40px);
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+.technologiessec {
+  width: calc(100vw - 40px);
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.technologiessec_content_rightpart {
+  max-width: 32vw;
+}
+
+
+
+
+.mapsec {
+  width: calc(100vw - 40px);
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 0px;
+}
+
+.mapsec_content_list_item:nth-child(2) {
+  left: 77%;
+}
+
+
+
+
+
+
+
+
+
+
+/*------------------СТРАНИЦА КАТАЛОГ--------------------*/
+
+.catalogsec_mainpage_content_tabmenu_sliderone {
+  display: none;
+}
+
+.catalogsec_catalogpage_content_tabmenu_content_list_item img {
+  max-width: 40vw;
+  margin: 0 auto;
+}
+
+
+.catalogsec_mainpage_content_tabmenu_nothing {
+width: calc(100vw - 40px);
+}
+
+.catalogsec_mainpage_content_tabmenu_slidertwo {
+  width: calc(100vw - 40px);
+}
+
+.catalogsec_mainpage_content_tabmenu_sliderone_item {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*----------------!!!------СТРАНИЦА О НАС---!!!------------------------*/
+
+  .aboutusfix_aboutpage > img:nth-child(1) {
+    width: 45vw;
+    height: 565px;
+    border-radius: 8px;
+  }
+
+
+
+
+
+
+
+/*----------------!!!------СТРАНИЦА ПОКУПАТЕЛЯМ---!!!------------------------*/
+
+.highqualitymaterialssec_developerspage_content_main_rightpart_container_down_buyers p {
+  font-size: 1rem;
+}
+
+
+
+
+
+/*----------------!!!------СТРАНИЦА СТАТЬЯ---!!!------------------------*/
+
+
+.mainsec_articlepage {
+  width: calc(100vw - 40px);
+  margin: 0 auto;
+  margin-top: 22px;
+}
+
+.mainsec_articlepage_content_grid_leftpart img {
+  max-width: 60vw;
+}
+
+.mainsec_articlepage_content_grid {
+  grid-template-columns: 3fr 1.5fr;
+}
+
+.mainsec_articlepage_content_grid_leftpart {
+  max-width: 60vw;
+}
+
+.moreonsec_articlepage {
+  width: calc(100vw - 40px);
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.blogsec_articlepage_form{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.furnitureinthisarticlesec_articlepage {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+
+
+
+
+
+/*----------------!!!------СТРАНИЦА КОРЗИНА---!!!------------------------*/
+
+.furnitureinthisarticlesec_articlepage_slider {
+width: calc(100vw - 40px);
+}
+
+
+.basketsec_content_main{
+  grid-template-columns: 1.5fr 1.08fr;
+}
+
+
+.basketsec_content_main {
+  column-gap: 0px;
+  width: calc(100vw - 40px);
+}
+
+
+.basketsec {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+  .basketsec_content_main {
+    grid-template-columns: 2fr 1.08fr;
+  }
+
+.basketsec_content_main_leftpart_list_item {
+  column-gap: 15px;
+}
+
+.basketsec_content_main_leftpart_list_item_title h3 {
+  font-size: 1.125rem;
+  line-height: 31px;
+}
+
+.basketsec_content_main_leftpart_list_item_title p {
+  font-size: 1rem;
+}
+
+
+
+.furnitureinthisarticlesec_articlepage_slider_arrows {
+  width: calc(100vw - 66px) !important;
+  padding-left: 13px !important;
+  padding-right: 13px !important;
+}
+
+.furnitureinthisarticlesec_basketpage_slider_arrows{
+  width: calc(100vw - 66px) !important;
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+
+
+
+.furnitureinthisarticlesec_basketpage {
+  width: calc(100vw - 40px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
